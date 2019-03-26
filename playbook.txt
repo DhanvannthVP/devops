@@ -1,3 +1,7 @@
+
+ - shell: for file in ls -l ./*.xlsx; do xlsx2csv   "${file}" "${file%.xlsx}".csv > /dev/null 2>&1; done
+register: csv
+
 ---
 - hosts: localhost
   tasks:
