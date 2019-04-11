@@ -1,0 +1,56 @@
+https://jonathanmh.com/how-to-create-a-git-merge-conflict/
+
+https://gist.github.com/karenyyng/f19ff75c60f18b4b8149
+
+csci.viu.ca/~wesselsd/courses/csci265/notes/gitExample.html
+
+https://codeforphilly.github.io/decentralized-data/tutorials/actually-using-git/lessons/conflicting-branches/
+
+git log branchname
+
+git revert commit id
+
+git revert HEAD
+
+
+git revert 8259cfe39bf6c8d202b297bed3ca7bd7237e2fd
+
+
+error: 'revert' is not possible because you have unmerged files.
+
+how to come out from git log
+
+press q
+
+git log branchname > hello.txt
+
+[root@git sangee]# git revert 8259cfe39bf6c8d202b297bed3ca7bd7237e2fdc
+
+
+************************************************
+git revert 8259cfe39bf6c8d202b297bed3ca7bd7237e2fdc
+error: could not revert 8259cfe... committing sh file
+
+git revert 8259cfe39bf6c8d202b297bed3ca7bd7237e2fdc
+error: could not revert 8259cfe... committing sh file
+hint: after resolving the conflicts, mark the corrected paths
+hint: with 'git add <paths>' or 'git rm <paths>'
+hint: and commit the result with 'git commit'
+hint: after resolving the conflicts, mark the corrected paths
+hint: with 'git add <paths>' or 'git rm <paths>'
+hint: and commit the result with 'git commit'
+******************************************************
+
+
+Tyr this
+
+*************************************************************************************************************
+https://stackoverflow.com/questions/35588521/git-revert-revert-is-not-possible-because-you-have-unmerged-files
+
+
+**************************************************************************************************************
+
+
+[root@git sangee]# git branch -d prasan
+error: The branch 'prasan' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D prasan'.
