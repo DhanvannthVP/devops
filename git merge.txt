@@ -1,10 +1,15 @@
-https://jonathanmh.com/how-to-create-a-git-merge-conflict/
 
-https://gist.github.com/karenyyng/f19ff75c60f18b4b8149
+git diff myfile.txthttps://jonathanmh.com/how-to-create-a-git-merge-conflict/
+
+
+https://gist.github.com/karenyyng/f19ff75c60f18b4b8149
+
 
 csci.viu.ca/~wesselsd/courses/csci265/notes/gitExample.html
 
-https://codeforphilly.github.io/decentralized-data/tutorials/actually-using-git/lessons/conflicting-branches/
+https://codeforphilly.github.io/decentralized-data/tutorials/actually-using-git/lessons/conflicting-branches/
+
+
 
 git log branchname
 
@@ -49,6 +54,20 @@ https://stackoverflow.com/questions/35588521/git-revert-revert-is-not-possible-b
 
 
 **************************************************************************************************************
+
+git diff myfile.txt/git diff --cached myfile.txt (when git add not done)
+
+
+git config receive.denyCurrentBranch ignore
+
+git init --bare --shared=group
+
+***********************************************bare repository****************************
+https://stackoverflow.com/questions/7632454/how-do-you-use-git-bare-init-repository
+
+***************************************************
+
+
 
 
 [root@git sangee]# git branch -d prasan
