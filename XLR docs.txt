@@ -1,0 +1,17 @@
+https://blog.xebialabs.com/2014/05/18/three-ways-using-xl-release-jenkins-continuous-delivery-part-2/
+
+https://wiki.jenkins.io/display/JENKINS/XL+Release+Plugin
+
+
+https://blog.xebialabs.com/2014/05/18/three-ways-using-xl-release-jenkins-continuous-delivery-part-2/
+
+
+https://docs.xebialabs.com/v.9.0/xl-release/how-to/create-a-jenkins-task/
+
+
+https://docs.xebialabs.com/v.9.0/xl-release/how-to/using-the-xl-release-plugin-for-jenkins/#about-the-plugin
+
+
+https://wiki.jenkins.io/display/JENKINS/XLRelease+Variables+Setter+Plugin
+
+https://support.xebialabs.com/hc/en-us/articles/115003252083-How-to-update-a-Release-using-XLR-REST-API-
